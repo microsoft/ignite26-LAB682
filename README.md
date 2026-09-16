@@ -32,8 +32,7 @@ Fill in the sections below yourself, then:
 
 # [Microsoft Ignite 2026](https://ignite.microsoft.com)
 
-## 🔥BRKXXX: SESSION TITLE
-
+## 🔥LAB682: Can't secure what you can't see. Find every AI agent in your org
 ### Session description
 
 Add your session description here. Keep it concise — 2-3 sentences about what attendees will learn and why it matters.
