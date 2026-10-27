@@ -548,11 +548,13 @@ TAP: +++@lab.CloudPortalCredential(User1).AccessToken+++
 7. [] Type +++/login+++ and select **1. GitHub.com**.
 8. [ ] Next, select **2. Sign in with a device code**.
 9. [ ] Copy the 8-digit device code then open +++https://github.com/login/device/+++.
-10. [ ] Select **Continue** next to the account displayed. 
-!IMAGE[9qac8mjt.png](instructions362243/9qac8mjt.png)
-12. [ ] Paste the 8-digit device code. Click **Continue**.
-13. [ ] Click **Authorize github**.
-14. [ ] Return to the command prompt and validate that sign-in is successful.
+10. [ ] Select **Continue** next to the account displayed.
+
+![GitHub Account](/img/GHAccount.png)
+
+11. [ ] Paste the 8-digit device code. Click **Continue**.
+12. [ ] Click **Authorize github**.
+13. [ ] Return to the command prompt and validate that sign-in is successful.
 
 > [!Note]
 > Keep the GitHub Copilot CLI session open for the remaining activities in this section.
@@ -573,7 +575,7 @@ TAP: +++@lab.CloudCredential(Ignite2026-Lab682).TAP+++
 
 6. [ ] Wait a minute or so until the GSA client finishes enrolling and the status says **Connected**.
 
-!IMAGE[3mpugvh6.png](instructions362243/3mpugvh6.png)
+![GSA client Connected](/img/GSAConnected.png)
 
 ===
 
