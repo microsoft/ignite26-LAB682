@@ -23,11 +23,7 @@ If you're following along during a live session:
 
 #### On your own
 
-If you're learning at your own pace:
-
-1. Clone this repository or browse the instructions on GitHub.
-2. Obtain access to a prepared LAB682 environment. Cloning the repository does not provision the tenant, virtual machine, identities, permissions, or policies.
-3. Follow the walkthrough in [`instructions/README.md`](instructions/README.md). Skillable resolves the lab-specific credential and variable tokens when you launch the lab; GitHub displays the source tokens.
+This lab is only available at in-person sessions at Ignite 2026. You may review the [Lab Instructions](instructions/README.md) but a full lab environment is not provided publicly.
 
 ### 🎯 Learning outcomes
 
@@ -39,12 +35,12 @@ By the end of this session, you will be able to:
 
 ### 💻 Technologies used
 
-- Microsoft Agent 365
-- Microsoft Entra Agent ID
-- Microsoft Entra ID Governance (access packages and Lifecycle Workflows)
-- Global Secure Access
-- GitHub Copilot CLI
-- Outlook on the web
+- [Microsoft Agent 365](https://learn.microsoft.com/en-us/security/security-for-ai/agent-365-security)
+- [Microsoft Entra Agent ID](https://learn.microsoft.com/en-us/entra/fundamentals/what-is-entra)
+- [Microsoft Entra ID Governance (access packages and Lifecycle Workflows)](https://learn.microsoft.com/en-us/entra/id-governance/agent-id-governance-overview)
+- [Global Secure Access](https://learn.microsoft.com/en-us/entra/global-secure-access/overview-what-is-global-secure-access)
+- [GitHub Copilot CLI](https://github.com/github/copilot-cli)
+- [Outlook on the web](https://www.microsoft.com/en-us/microsoft-365/outlook/outlook-for-business)
 
 ### 📚 Continue your learning
 
