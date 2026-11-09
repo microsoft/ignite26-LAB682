@@ -62,8 +62,10 @@ Pick your next step based on your learning style:
         <sub><b>Chad Hasbrook</b></sub></a><br />
             <a href="https://github.com/chadhasbrook" title="talk">📢</a>
     </td>
-    <td align="center">
-        <b>Jeff Bley</b>
+    <td align="center"><a href="https://github.com/jeffbley">
+        <img src="img/Cropped Headshot.jpg" width="100px;" alt="Jeff Bley"/><br />
+        <sub><b>Jeff Bley</b></sub></a><br />
+            <a href="https://github.com/jeffbley" title="talk">📢</a>
     </td>
 </tr></table>
 
